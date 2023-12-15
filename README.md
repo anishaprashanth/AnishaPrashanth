@@ -1,8 +1,27 @@
-### Hi there👋, I'm Anisha! 👩🏽‍💻
+# Hi there👋, I'm Anisha! 👩🏽‍💻
 
-I'm a versatile Industrial Engineering (Data Science) student at Georgia Tech, with a minor in Computer Science (Artificial Intelligence). I have a strong foundation in statistics and coding. I'm fascinated by how data, software development, and business strategy all come together to create innovative products and uplift society.
+![](https://github.com/anishaprashanth/AnishaPrashanth/raw/main/ap.gif)
 
-My background includes a solid understanding of statistics and coding, complemented by internships focused on various areas of data science and engineering. I have gained hands-on experience in data mining, data modeling, data visualization, artificial intelligence, and more. I thrive on doing work that has a direct impact on my community! I have also taken on leadership roles in organizations and volunteering experiences, which have helped me develop my leadership, collaboration, and communication skills while fueling my passion for impactful work.
+I'm on a mission to make a meaningful impact through software engineering! I'm a data enthusiast and my passion lies in data-focused projects such as extracting insights through data analysis, building data science models, or exploring network science. 
+
+### 🔭 I’m currently working on
+- Generative AI Projects at Siemens
+- Analytics Dashboard for Bits of Good
+- Inventory Reduction Senior Design Project
+
+### 🌱 I’m currently learning 
+- Github
+- Generative AI
+- C
+
+### 💬 Let's talk about
+- Streamlit
+- Network Science
+- Generative AI 
+  
+### 📫 How to reach me: 
+- Email: aprashanth6@gatech.edu
+- Linkedin: https://www.linkedin.com/in/anisha-prashanth/
 
 <!--
 **anishaprashanth/AnishaPrashanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
