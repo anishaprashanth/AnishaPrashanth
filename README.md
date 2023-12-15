@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there👋, I'm Anisha! 👩🏽‍💻
+
+I'm a versatile Industrial Engineering (Data Science) student at Georgia Tech, with a minor in Computer Science (Artificial Intelligence). I have a strong foundation in statistics and coding. I'm fascinated by how data, software development, and business strategy all come together to create innovative products and uplift society.
+
+My background includes a solid understanding of statistics and coding, complemented by internships focused on various areas of data science and engineering. I have gained hands-on experience in data mining, data modeling, data visualization, artificial intelligence, and more. I thrive on doing work that has a direct impact on my community! I have also taken on leadership roles in organizations and volunteering experiences, which have helped me develop my leadership, collaboration, and communication skills while fueling my passion for impactful work.
 
 <!--
 **anishaprashanth/AnishaPrashanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
