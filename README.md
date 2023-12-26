@@ -2,7 +2,7 @@
 
 ![](https://github.com/anishaprashanth/AnishaPrashanth/raw/main/ap.gif)
 
-I'm on a mission to make a meaningful impact through software engineering! I'm a data enthusiast and my passion lies in data-focused projects such as extracting insights through data analysis, building data science models, or exploring network science. 
+I'm on a mission to make a meaningful impact through software engineering! My passion lies in data-focused projects such as extracting insights through data analysis, building data science models, or exploring network science. 
 
 ### 🔭 I’m currently working on
 - Generative AI Projects at Siemens
