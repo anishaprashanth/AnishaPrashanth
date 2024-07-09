@@ -5,14 +5,13 @@
 I'm on a mission to make a meaningful impact through software engineering! My passion lies in data-focused projects such as extracting insights through data analysis, building data science models, or exploring network science. 
 
 ### 🔭 I’m currently working on
-- Generative AI Projects at Siemens
-- Analytics Dashboard for Bits of Good
-- Inventory Reduction Senior Design Project
+- Internal blackbox testing tool UI @Capital One
+- Teaching middle schoolers web dev
 
 ### 🌱 I’m currently learning 
-- Github
-- Generative AI
-- C
+- Angular / UI development
+- Git
+- Data Visualizations
 
 ### 💬 Let's talk about
 - Streamlit
