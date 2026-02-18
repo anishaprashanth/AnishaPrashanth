@@ -5,21 +5,20 @@
 I'm on a mission to make a meaningful impact through software engineering! My passion lies in data-focused projects such as extracting insights through data analysis, building data science models, or exploring network science. 
 
 ### 🔭 I’m currently working on
-- Internal blackbox testing tool UI @Capital One
-- Teaching middle schoolers web dev
+- Payments @ Capital One
 
 ### 🌱 I’m currently learning 
-- Angular / UI development
-- Git
-- Data Visualizations
+- Spring development
+- AWS Architecturing
 
 ### 💬 Let's talk about
 - Streamlit
+- Obervability
+- REST APIs
 - Network Science
-- Generative AI 
   
 ### 📫 How to reach me: 
-- Email: aprashanth6@gatech.edu
+- Email: anishaprash@gmail.com
 - Linkedin: https://www.linkedin.com/in/anisha-prashanth/
 
 <!--
